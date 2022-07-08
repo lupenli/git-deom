@@ -11,6 +11,11 @@ hello lpl! hello git!
 hello lpl! hello git!
 hello lpl! hello git!
 hello lpl! hello git!
+<<<<<<< HEAD
 hello lpl! hello git! master text
 hello lpl! hello git!
+=======
+hello lpl! hello git!
+hello lpl! hello git! hot-fix text
+>>>>>>> hot-fix
 hello lpl! hello git!
