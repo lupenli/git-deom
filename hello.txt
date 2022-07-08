@@ -12,5 +12,5 @@ hello lpl! hello git!
 hello lpl! hello git!
 hello lpl! hello git!
 hello lpl! hello git!
-hello lpl! hello git!
+hello lpl! hello git! hot-fix text
 hello lpl! hello git!
